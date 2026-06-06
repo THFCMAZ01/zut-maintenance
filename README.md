@@ -30,15 +30,6 @@ A full-stack web application for reporting and tracking maintenance issues at Za
 - bcryptjs
 - Multer (file uploads)
 
-### Database
-- PostgreSQL (hosted on Neon)
-
-### Deployment
-- Frontend → Vercel
-- Backend → Render
-- Database → Neon
-
----
 
 ## Project Structure
 zut-maintenance/
